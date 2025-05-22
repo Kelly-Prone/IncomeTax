@@ -17,7 +17,7 @@ Pessoas jurídicas pagam 16% de imposto. Porém, se a empresa possuir mais de 10
 
 **Exemplo:** uma empresa cuja renda foi 400000.00 e possui 25 funcionários, o imposto fica: **400000 * 14% = 56000.00**
 
-![Diagrama de Classes](img,jpg)
+![Diagrama de Classes](img.jpg)
 
 
 ### Como o projeto deve parecer:
